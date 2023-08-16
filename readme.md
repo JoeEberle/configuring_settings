@@ -1,6 +1,6 @@
 # Configuring Settings - Easily configure your solutions
 
-![Talking Code Logo](joe_logo.png)
+![Code Logo](joe_logo.png)
 
 ## Description
 
@@ -12,6 +12,15 @@ and use a configuration file.
 - Easily Extensible.
 - Hides sensitive codes or API keys .
 - Establishes consistency acorss projects
+
+## Notebook Features
+
+- Self Documenting.
+- Self Testing.
+- Easily Configurable
+- Includes Talking Code 
+- Self Logging 
+- Self Debugging 
 
 ## Getting Started
 
