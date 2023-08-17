@@ -15,8 +15,8 @@ and use a configuration file.
 
 ## Notebook Features
 
-- Self Documenting.
-- Self Testing.
+- Self Documenting 
+- Self Testing 
 - Easily Configurable
 - Includes Talking Code 
 - Self Logging 
