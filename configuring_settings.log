@@ -1,0 +1,18 @@
+2024-03-06 22:17:34,080 - INFO - START configuring_settings =============================================
+2024-03-06 22:17:34,080 - INFO - START configuring_settings Start Time = 2024-03-06 22:17:34
+2024-03-06 22:17:34,080 - INFO - configuring_settings Step 0 - Initialize the configuration file parser
+2024-03-06 22:17:34,200 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-03-06 22:17:34,200 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-03-06 22:17:39,992 - INFO - Process configuring_settings Step 0 - Initializing and starting Process.
+2024-03-06 22:18:08,112 - INFO - Process configuring_settings Step 1 - Establish the configuration parser engine.
+2024-03-06 22:18:13,719 - INFO - Process configuring_settings Step 2 - Create a config section name to organize settings
+2024-03-06 22:18:19,598 - INFO - Process configuring_settings Step 3 - Populate the section with name - value pairs
+2024-03-06 22:18:25,541 - INFO - Process configuring_settings Step 4 - Repeat items 2 and 3 for any subsequent sections.
+2024-03-06 22:18:30,561 - INFO - Process configuring_settings Step 5 - Write out the config.ini file.
+2024-03-06 22:18:36,322 - INFO - Process configuring_settings Step 6 - Test specific values in the configuration file.
+2024-03-06 22:18:41,693 - INFO - Process configuring_settings Step 7 - Validating entire configuration file.
+2024-03-06 22:18:41,705 - INFO - PERFORMANCE configuring_settings The total process duration was:38.97
+2024-03-06 22:18:41,706 - INFO - PERFORMANCE configuring_settings Stop Time = 2024-03-06 22:18:41
+2024-03-06 22:18:41,706 - INFO - PERFORMANCE configuring_settings Low process duration less than 3 minutes:38.97
+2024-03-06 22:18:41,706 - INFO - PERFORMANCE configuring_settings Performance optimization is optional
+2024-03-06 22:18:41,706 - INFO - END configuring_settings =============================================
