@@ -10,7 +10,7 @@ Solution for Configuring Settings. The config.ini file in Python serves as a cen
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
