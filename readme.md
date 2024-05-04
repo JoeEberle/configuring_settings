@@ -38,4 +38,4 @@ To get started with the **Configuring Settings** solution repository, follow the
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](configuring_settings.png)  <br>
+    ## Deliverables or Figures![additional_image](configuring_settings.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
