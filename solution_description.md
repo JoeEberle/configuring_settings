@@ -1,11 +1,4 @@
 
-![Image image_filename](solution_sign.png)
-
-# Configuring Settings - Solution for Configuring Settings. The config.ini file in Python serves as a centralized repository for storing configuration parameters, offering a structured way to manage settings such as API keys, database connections, and application behavior. Utilizing this file streamlines the customization process by allowing developers to easily modify settings without altering the core codebase, enhancing flexibility and scalability in solution development.
-Solution for Configuring Settings. The config.ini file in Python serves as a centralized repository for storing configuration parameters, offering a structured way to manage settings such as API keys, database connections, and application behavior. Utilizing this file streamlines the customization process by allowing developers to easily modify settings without altering the core codebase, enhancing flexibility and scalability in solution development.
-
-![Image image_filename](code.png)
-
 ## Overview of Configuring Settings - Configuring Settings with config.ini Files
 In the realm of software development, **managing configuration settings** effectively is **crucial** for maintaining flexibility, security, and compliance with corporate standards. The pythonic way of handling these settings is through the use of config.ini files, which store key-value pairs of configuration settings. This method provides a structured and secure approach to configuring technology solutions.
 
@@ -26,45 +19,3 @@ Implementing the configuring settings solution using config.ini files can save e
 ## Conclusion
 Configuring settings using **config.ini** files is a **practical** and **secure solution** for managing application configurations. This method offers numerous benefits, including enhanced security, flexibility, and adherence to corporate standards. By adopting this approach, developers, system administrators, and security professionals can ensure that their technology solutions are both robust and adaptable to varying requirements.
 
-
-![Image image_filename](sample.png)
-
-## Getting Started
-To get started with the **Configuring Settings** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## Solution Features
-- Easy to understand and use  
-- Easily Configurable 
-- Quickly start your project with pre-built templates
-- Its Fast and Automated
-
-## Notebook Features
-- **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each function
-- **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
-- **Includes Talking Code** - The code explains itself 
-- **Self Logging** - Enhanced python standard logging   
-- **Self Debugging** - Enhanced python standard debugging
-- **Low Code** - or - No Code  - Most solutions are under 50 lines of code
-- **Educational** - Includes educational dialogue and background material
-- **Secure** - All the sample solutions are secure and use synthetic data, ensuring they contain no sensitive data or information.
-    
-## Deliverables or Figures
- ![additional_image](configuring_settings.png)  <br>
-    
-
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
-
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
