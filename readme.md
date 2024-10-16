@@ -60,11 +60,8 @@ To get started with the **Configuring Settings** solution repository, follow the
  ![additional_image](configuring_settings.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
