@@ -67,3 +67,49 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-17 01:01:06,943 - INFO - START configuring_settings =============================================
+2024-10-17 01:01:06,943 - INFO - START configuring_settings Start Time = 2024-10-17 01:01:06
+2024-10-17 01:01:06,943 - INFO - configuring_settings Step 0 - Initialize the configuration file parser
+2024-10-17 01:01:07,185 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-10-17 01:01:07,185 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-10-17 01:01:13,176 - INFO - Process configuring_settings Step 0 - Initializing and starting Process.
+2024-10-17 01:01:41,257 - INFO - Process configuring_settings Step 1 - Establish the configuration parser engine.
+2024-10-17 01:01:46,913 - INFO - Process configuring_settings Step 2 - Create a config section name to organize settings
+2024-10-17 01:01:52,773 - INFO - Process configuring_settings Step 3 - Populate the section with name - value pairs
+2024-10-17 01:01:58,744 - INFO - Process configuring_settings Step 4 - Repeat items 2 and 3 for any subsequent sections.
+2024-10-17 01:02:03,753 - INFO - Process configuring_settings Step 5 - Write out the config.ini file.
+2024-10-17 01:02:09,512 - INFO - Process configuring_settings Step 6 - Test specific values in the configuration file.
+2024-10-17 01:02:14,886 - INFO - Process configuring_settings Step 7 - Validating entire configuration file.
+2024-10-17 01:02:14,903 - INFO - PERFORMANCE configuring_settings The total process duration was:38.99
+2024-10-17 01:02:14,903 - INFO - PERFORMANCE configuring_settings Stop Time = 2024-10-17 01:02:14
+2024-10-17 01:02:14,904 - INFO - PERFORMANCE configuring_settings Low process duration less than 3 minutes:38.99
+2024-10-17 01:02:14,904 - INFO - PERFORMANCE configuring_settings Performance optimization is optional
+2024-10-17 01:02:14,904 - INFO - END configuring_settings =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-17 01:09:46,704 - INFO - START configuring_settings =============================================
+2024-10-17 01:09:46,704 - INFO - START configuring_settings Start Time = 2024-10-17 01:09:46
+2024-10-17 01:09:46,704 - INFO - configuring_settings Step 0 - Initialize the configuration file parser
+2024-10-17 01:09:46,888 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-10-17 01:09:46,888 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-10-17 01:09:52,831 - INFO - Process configuring_settings Step 0 - Initializing and starting Process.
+2024-10-17 01:10:21,018 - INFO - Process configuring_settings Step 1 - Establish the configuration parser engine.
+2024-10-17 01:10:26,600 - INFO - Process configuring_settings Step 2 - Create a config section name to organize settings
+2024-10-17 01:10:32,503 - INFO - Process configuring_settings Step 3 - Populate the section with name - value pairs
+2024-10-17 01:10:38,418 - INFO - Process configuring_settings Step 4 - Repeat items 2 and 3 for any subsequent sections.
+2024-10-17 01:10:43,478 - INFO - Process configuring_settings Step 5 - Write out the config.ini file.
+2024-10-17 01:10:49,227 - INFO - Process configuring_settings Step 6 - Test specific values in the configuration file.
+2024-10-17 01:10:54,605 - INFO - Process configuring_settings Step 7 - Validating entire configuration file.
+2024-10-17 01:10:54,620 - INFO - PERFORMANCE configuring_settings The total process duration was:39.05
+2024-10-17 01:10:54,620 - INFO - PERFORMANCE configuring_settings Stop Time = 2024-10-17 01:10:54
+2024-10-17 01:10:54,620 - INFO - PERFORMANCE configuring_settings Low process duration less than 3 minutes:39.05
+2024-10-17 01:10:54,620 - INFO - PERFORMANCE configuring_settings Performance optimization is optional
+2024-10-17 01:10:54,620 - INFO - END configuring_settings =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
