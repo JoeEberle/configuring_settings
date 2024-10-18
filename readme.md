@@ -4,7 +4,25 @@
 
 ## Solution for Configuring Settings. The config.ini file in Python serves as a centralized repository for storing configuration parameters, 
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 ## Overview of Configuring Settings - Configuring Settings with config.ini Files
 In the realm of software development, **managing configuration settings** effectively is **crucial** for maintaining flexibility, security, and compliance with corporate standards. 
 
@@ -29,7 +47,13 @@ Additionally, this streamlined approach to managing sensitive information reduce
 ## Conclusion
 Configuring settings using **config.ini** files is a **practical** and **secure solution** for managing application configurations. This method offers numerous benefits, including enhanced security, flexibility, and adherence to corporate standards. By adopting this approach, developers, system administrators, and security professionals can ensure that their technology solutions are both robust and adaptable to varying requirements.
 
-![Image image_filename](code.png)![Image image_filename](sample.png)
+
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
