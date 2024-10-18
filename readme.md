@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Configuring Settings - Solution for Configuring Settings. The config.ini file in Python serves as a centralized repository for storing configuration parameters, ![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Configuring Settings 
+    ## Solution for Configuring Settings. The config.ini file in Python serves as a centralized repository for storing configuration parameters, 
+    ![Image image_filename](code.png)
 ## Overview of Configuring Settings - Configuring Settings with config.ini Files
 In the realm of software development, **managing configuration settings** effectively is **crucial** for maintaining flexibility, security, and compliance with corporate standards. 
 
@@ -33,12 +36,15 @@ To get started with the **Configuring Settings** solution repository, follow the
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
