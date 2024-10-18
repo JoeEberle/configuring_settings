@@ -23,7 +23,7 @@ Additionally, this streamlined approach to managing sensitive information reduce
 ## Conclusion
 Configuring settings using **config.ini** files is a **practical** and **secure solution** for managing application configurations. This method offers numerous benefits, including enhanced security, flexibility, and adherence to corporate standards. By adopting this approach, developers, system administrators, and security professionals can ensure that their technology solutions are both robust and adaptable to varying requirements.
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
