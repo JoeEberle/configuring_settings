@@ -8,20 +8,6 @@
 ![Solution](code.png)
 
     
-## Table of Contents
-
-- [Solution Overview](#solution-overview)
-- [Who will use this ?](#who-can-use)
-- [Advantages of Using](#advantages-of-using)
-- [Return on Investment (ROI)](#return-on-investment-roi)
-- [How it Works](#how-it-works)
-- [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
-- [Solution Features](#solution-features)
-- [Code Features](#code-features)
-- [Deliverables or Figures](#deliverables-or-figures)
-- [Contact Information](#contact-information)
-
 
 ## Overview of Configuring Settings - Configuring Settings with config.ini Files
 In the realm of software development, **managing configuration settings** effectively is **crucial** for maintaining flexibility, security, and compliance with corporate standards. 
@@ -37,7 +23,7 @@ The **pythonic way** of handling these settings is through the use of **config.i
 1. **Flexibility and Customization**: config.ini files allow for easy modification of configuration settings without altering the source code. This flexibility enables quick adjustments to application behavior to meet different needs and environments.
 2. **Security**: By storing sensitive information in config.ini files rather than hardcoding it, organizations can enhance security. This practice reduces the risk of exposing sensitive data in source code repositories and during code reviews.
 3. **Standardization**: Using config.ini files helps ensure that configurations adhere to corporate standards. Organizations can define a template for these files, ensuring consistency across different projects and environments.
-4. **Ease of Use**: config.ini files are easy to read and write, both for humans and machines. Python�s configparser module provides a straightforward interface for parsing and manipulating these files, making it simple to integrate configuration management into applications.
+4. **Ease of Use**: config.ini files are easy to read and write, both for humans and machines. Python’s configparser module provides a straightforward interface for parsing and manipulating these files, making it simple to integrate configuration management into applications.
 
 ## Massive Time Savings 
 Implementing the configuring settings solution using config.ini files can save enterprises countless hours in development and deployment processes. By eliminating the need to manually adjust hardcoded settings for different environments, developers and administrators can quickly adapt configurations, leading to faster rollouts and fewer errors. 
@@ -73,18 +59,17 @@ To get started with the **Configuring Settings** solution repository, follow the
 - Saves You Time 
 
 
-## Code Features
 
-These features are designed to provide everything you need for **Configuring Settings** 
+## ⚙️ Key Features
 
-- **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each function
-- **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
-- **Includes Talking Code** - The code explains itself 
-- **Self Logging** - Enhanced python standard logging   
-- **Self Debugging** - Enhanced python standard debugging
-- **Low Code** - or - No Code  - Most solutions are under 50 lines of code
-- **Educational** - Includes educational dialogue and background material
+- ✅ **Self Documenting** Automatically identifies and annotates major steps in a notebook, making the codebase readable and well structured.
+- ✅ **Self Testing** Includes built in **unit tests** for each function to validate logic and ensure code reliability.
+- ✅ **Easily Configurable** Uses a simple **config.ini** file for centralized settings and easy customization through key value pairs.
+- ✅ **Talking Code** explains itself through inline commentary, helping you understand both **what** it does and **why** it does it.
+- ✅ **Self Logging** extends Python’s standard **logging** module for **step by step runtime insights**.
+- ✅ **Self Debugging** Includes debugging hooks and detailed error tracing to simplify development and troubleshooting.
+- ✅ **Low Code or  No Code** Designed to minimize complexity — most full solutions are under 50 lines of code.
+- ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
 ## List of Figures
