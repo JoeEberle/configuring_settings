@@ -113,3 +113,57 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2026-04-22 10:48:41,218 - INFO - START configuring_settings =============================================
+2026-04-22 10:48:41,218 - INFO - START configuring_settings Start Time = 2026-04-22 10:48:41
+2026-04-22 10:48:41,218 - INFO - configuring_settings Step 0 - Initialize the configuration file parser
+2026-04-22 10:48:41,368 - INFO - Could not import comtypes.gen, trying to create it.
+2026-04-22 10:48:41,368 - INFO - Created comtypes.gen directory: 'C:\Users\josep\anaconda3\Lib\site-packages\comtypes\gen'
+2026-04-22 10:48:41,369 - INFO - Writing __init__.py file: 'C:\Users\josep\anaconda3\Lib\site-packages\comtypes\gen\__init__.py'
+2026-04-22 10:48:41,374 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\Lib\site-packages\comtypes\gen'
+2026-04-22 10:48:41,407 - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2026-04-22 10:48:41,418 - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-04-22 10:48:41,579 - INFO - # Generating comtypes.gen.SpeechLib
+2026-04-22 10:48:41,593 - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2026-04-22 10:48:41,595 - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2026-04-22 10:48:41,609 - INFO - # Generating comtypes.gen.stdole
+2026-04-22 10:48:48,349 - INFO - Process configuring_settings Step 0 - Initializing and starting Process.
+2026-04-22 10:49:17,058 - INFO - Process configuring_settings Step 1 - Establish the configuration parser engine.
+2026-04-22 10:49:23,009 - INFO - Process configuring_settings Step 2 - Create a config section name to organize settings
+2026-04-22 10:49:29,134 - INFO - Process configuring_settings Step 3 - Populate the section with name - value pairs
+2026-04-22 10:49:35,311 - INFO - Process configuring_settings Step 4 - Repeat items 2 and 3 for any subsequent sections.
+2026-04-22 10:49:40,574 - INFO - Process configuring_settings Step 5 - Write out the config.ini file.
+2026-04-22 10:49:46,589 - INFO - Process configuring_settings Step 6 - Test specific values in the configuration file.
+2026-04-22 10:49:52,325 - INFO - Process configuring_settings Step 7 - Validating entire configuration file.
+2026-04-22 10:49:52,341 - INFO - PERFORMANCE configuring_settings The total process duration was:40.96
+2026-04-22 10:49:52,341 - INFO - PERFORMANCE configuring_settings Stop Time = 2026-04-22 10:49:52
+2026-04-22 10:49:52,342 - INFO - PERFORMANCE configuring_settings Low process duration less than 3 minutes:40.96
+2026-04-22 10:49:52,342 - INFO - PERFORMANCE configuring_settings Performance optimization is optional
+2026-04-22 10:49:52,342 - INFO - END configuring_settings =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2026-04-22 11:19:47,585 - INFO - START configuring_settings =============================================
+2026-04-22 11:19:47,585 - INFO - START configuring_settings Start Time = 2026-04-22 11:19:47
+2026-04-22 11:19:47,585 - INFO - configuring_settings Step 0 - Initialize the configuration file parser
+2026-04-22 11:19:47,683 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-04-22 11:19:47,684 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\Lib\site-packages\comtypes\gen'
+2026-04-22 11:19:53,983 - INFO - Process configuring_settings Step 0 - Initializing and starting Process.
+2026-04-22 11:20:22,598 - INFO - Process configuring_settings Step 1 - Establish the configuration parser engine.
+2026-04-22 11:20:28,452 - INFO - Process configuring_settings Step 2 - Create a config section name to organize settings
+2026-04-22 11:20:34,576 - INFO - Process configuring_settings Step 3 - Populate the section with name - value pairs
+2026-04-22 11:20:40,739 - INFO - Process configuring_settings Step 4 - Repeat items 2 and 3 for any subsequent sections.
+2026-04-22 11:20:46,112 - INFO - Process configuring_settings Step 5 - Write out the config.ini file.
+2026-04-22 11:20:52,168 - INFO - Process configuring_settings Step 6 - Test specific values in the configuration file.
+2026-04-22 11:20:57,886 - INFO - Process configuring_settings Step 7 - Validating entire configuration file.
+2026-04-22 11:20:57,901 - INFO - PERFORMANCE configuring_settings The total process duration was:40.94
+2026-04-22 11:20:57,901 - INFO - PERFORMANCE configuring_settings Stop Time = 2026-04-22 11:20:57
+2026-04-22 11:20:57,902 - INFO - PERFORMANCE configuring_settings Low process duration less than 3 minutes:40.94
+2026-04-22 11:20:57,902 - INFO - PERFORMANCE configuring_settings Performance optimization is optional
+2026-04-22 11:20:57,902 - INFO - END configuring_settings =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
